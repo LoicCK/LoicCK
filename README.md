@@ -1,14 +1,14 @@
-### Salut, c'est Loïc ! 👋
+### Hi, I'm Loïc! 👋
 
-Étudiant ingénieur à l'**ESIEE Paris**, passionné par l'automatisation et l'infrastructure Cloud.
+Engineering student at **ESIEE Paris**, passionate about automation and Cloud infrastructure.
 
-**Ma Stack Technique :**
-* **Cloud :** Google Cloud Platform (Cloud Run, Cloud Build, Firestore)
-* **DevOps :** Docker, CI/CD, Proxmox (Homelab)
-* **Code :** Python (FastAPI), Java
+**My Tech Stack:**
+* **Cloud:** Google Cloud Platform (Cloud Run, Cloud Build, Firestore)
+* **DevOps:** Docker, CI/CD, Proxmox (Homelab)
+* **Code:** Python (FastAPI), Java
 
-**Projet du moment :**
-Je travaille sur **JobNexus**, un agrégateur d'offres d'alternance Serverless pour optimiser ma recherche (et mes coûts Cloud !).
+**Current Project:**
+I'm working on **JobNexus**, a Serverless apprenticeship aggregator designed to optimize my search (and my Cloud costs!).
 
-**Me contacter :**
-[Mon LinkedIn](https://www.linkedin.com/in/loicck/)
+**Contact me:**
+[My LinkedIn](https://www.linkedin.com/in/loicck/)
