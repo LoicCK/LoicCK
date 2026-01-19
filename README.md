@@ -1,16 +1,14 @@
-## Hi there 👋
+### Salut, c'est Loïc ! 👋
 
-<!--
-**LoicCK/LoicCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant ingénieur à l'**ESIEE Paris**, passionné par l'automatisation et l'infrastructure Cloud.
 
-Here are some ideas to get you started:
+**Ma Stack Technique :**
+* **Cloud :** Google Cloud Platform (Cloud Run, Cloud Build, Firestore)
+* **DevOps :** Docker, CI/CD, Proxmox (Homelab)
+* **Code :** Python (FastAPI), Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projet du moment :**
+Je travaille sur **JobNexus**, un agrégateur d'offres d'alternance Serverless pour optimiser ma recherche (et mes coûts Cloud !).
+
+**Me contacter :**
+[Mon LinkedIn](https://www.linkedin.com/in/loicck/)
